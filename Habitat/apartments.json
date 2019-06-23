@@ -1,0 +1,12 @@
+
+        {
+            "type" : "serviced",
+            "people" : "1",
+            "namme": "Apart1",
+            "city": "Berlin",
+            "street": "Geitelsteig",
+            "streetNumber": "1",
+            "description": "BlaBlaBla"
+        }
+
+
